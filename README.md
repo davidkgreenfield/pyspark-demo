@@ -2,6 +2,9 @@
 
 ## Setup instructions
 clone the repo
+```
+https://github.com/davidkgreenfield/pyspark-demo.git
+```
 
 ```
 pip install -r requirements.txt
